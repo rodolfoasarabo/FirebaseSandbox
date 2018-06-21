@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "470134970562",
+    "firebase_url": "https://sandbox-a0904.firebaseio.com",
+    "project_id": "sandbox-a0904",
+    "storage_bucket": "sandbox-a0904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470134970562:android:4855750b76f2256e",
+        "android_client_info": {
+          "package_name": "com.example.sarabrdo.sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470134970562-srfcbaaqs8rq3b4f8olhh2igl1c48m3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LSpCf5u3M-1xFlzdTYWefB1snggZJnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470134970562:android:56b8230dacb1d815",
+        "android_client_info": {
+          "package_name": "rodolfo.firebasesandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470134970562-srfcbaaqs8rq3b4f8olhh2igl1c48m3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LSpCf5u3M-1xFlzdTYWefB1snggZJnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
